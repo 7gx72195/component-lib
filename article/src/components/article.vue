@@ -239,9 +239,9 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-:root {
-    --get-color: Aquamarine;
-}
+
+  $main-color: #568;
+
 
 a {
   text-decoration: none !important;
@@ -394,7 +394,7 @@ a {
   }
 
   .c-big-title {
-    color: var(--get-color) !important;
+    color: $main-color !important;
     font-weight: bold;
     display: inline-block;
     font-size: 35px;
@@ -409,7 +409,7 @@ a {
 
     .c-icon-title {
       display: flex;
-      color: var(--get-color) !important;
+      color: $main-color !important;
       font-size: 26px;
       line-height: 1.1;
       margin-bottom: 20px;
@@ -424,8 +424,8 @@ a {
 
   .title {
     .c-title-text {
-      border-left: 4px solid var(--get-color) !important;
-      color: var(--get-color) !important;
+      border-left: 4px solid $main-color !important;
+      color: $main-color !important;
       display: inline-block;
       font-size: 26px;
       line-height: 1.1;

@@ -1,13 +1,67 @@
 [
     {
+        "componentType": "hr"
+    },
+    {
+        "componentType": "big-title",
+        "text": "big-title"
+    },
+    {
         "componentType": "title",
-        "text": "永續倡議"
+        "text": "title"
+    },
+    {
+        "componentType": "icon-title",
+        "icon": "fa-solid fa-folder-open",
+        "text": "icon-title"
     },
     {
         "componentType": "text",
         "text": [
             "近年國際間鼓勵產學界以聯合國2030年永續發展指標（以下簡稱SDGs）爲轉型方向，邁入「地球共治」的關鍵階段。本校於1990年建校即以綠色大學自詡，並戮力規劃永續發展校園，建設綠能典範學府，培育具備永續視野的人才爲社會奉獻。2013年校內成立環境教育中心，利用校園環境作爲教學場域，並規劃適用於大彰化地區之環境教育教材及課程，積極推動環保教育。2019年，本校將永續發展精神融入校務與教學之成效，榮獲國家永續發展獎；2022年，進一步成立碳盤查團隊以及永續發展辦公室，跨單位整合專業知識與行政量能，全力實踐聯合國SDGs關鍵目標，承擔起在地資源與國際接軌之責任，促進生態環境與產業經濟之永續發展。"
         ]
+    },
+    {
+        "componentType": "nullData"
+    },
+    {
+        "componentType": "list",
+        "data": {
+            "type": "ol",
+            "style": " list-style-type:cjk-ideographic",
+            "data": [
+                {
+                    "text": "報名課程",
+                    "data": {
+                        "type": "ol",
+                        "data": [
+                            {
+                                "text": "填寫入學申請表",
+                                "link": "https://docs.google.com/forms/d/e/1FAIpQLSfMIoAfFFBW4GDvP8yv3tkPBBHbTNFT7je5_XGQM8s9EZhfEg/viewform"
+                            },
+                            {
+                                "text": "上傳報名文件(護照及居留證影本、正式的財力證明（三個月內/US$2,500）、2吋證件照片3張、高中以上畢業證書和成績單影本)"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "text": "繳費 (可接受付款方式如下：",
+                    "data": {
+                        "type": "ol",
+                        "data": [
+                            {
+                                "text": "信用卡"
+                            },
+                            {
+                                "text": "電匯",
+                                "link": "https://bulletin.dyu.edu.tw/file/A0012/83167.pdf"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
     },
     {
         "componentType": "img",
@@ -21,7 +75,19 @@
         ]
     },
     {
-        "componentType": "big-title",
-        "text": "教學特色"
+        "componentType": "iframe",
+        "data": {
+            "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.9029544648097!2d120.59252571498607!3d23.999203784467365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34693768664f3ccb%3A0xe8c679292eeb5326!2zNTE15b2w5YyW57ij5aSn5p2R6YSJ5a245bqc6LevMTY46Jmf!5e0!3m2!1szh-TW!2stw!4v1509635572296",
+            "width": "80%",
+            "height": "768px"
+        }
+    },
+    {
+        "componentType": "pdf",
+        "data": {
+            "url": "tools/files/CLC學季班課程分級規畫表20201028.pdf",
+            "width": "70%",
+            "height": "768px"
+        }
     }
 ]
