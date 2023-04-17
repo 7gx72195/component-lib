@@ -34,8 +34,32 @@ fontawesome
 - list
 - hr
 
+## title
+帶有border-left的title
+```
+{
+    "componentType": "title",
+    "text": "教學特色"
+}
 
+```
+## icon-title
+帶有icon 的 title
+icon 請上 fontawesome 官網查詢
+```
+ {
+    "componentType": "icon-title",
+    "icon":"fa-solid fa-folder-open",
+    "text": "永續倡議"
+},
+```
 
+## big-title
+較大的title
+```
+{
+    "componentType": "big-title",
+    "text": "教學特色"
+},
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
