@@ -131,13 +131,16 @@ text 陣列內為段落，字串內可寫html程式碼
 }
 ```
 ## list
-網頁上顯示一條橫線
+type : 可設定ul & ol
+data : 內容
+text : 內容文字
+text - data : 若有第二層再輸入
 ```
 {
     "componentType": "list",
     "data": {
     "type": "ol",
-    "style": " list-style-type:cjk-ideographic",
+    "style": "",
         "data": [
             {
                 "text": "報名課程",
