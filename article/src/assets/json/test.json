@@ -5,22 +5,23 @@
     },
     {
         "componentType": "text",
-        "text": ["近年國際間鼓勵產學界以聯合國2030年永續發展指標（以下簡稱SDGs）爲轉型方向，邁入「地球共治」的關鍵階段。本校於1990年建校即以綠色大學自詡，並戮力規劃永續發展校園，建設綠能典範學府，培育具備永續視野的人才爲社會奉獻。2013年校內成立環境教育中心，利用校園環境作爲教學場域，並規劃適用於大彰化地區之環境教育教材及課程，積極推動環保教育。2019年，本校將永續發展精神融入校務與教學之成效，榮獲國家永續發展獎；2022年，進一步成立碳盤查團隊以及永續發展辦公室，跨單位整合專業知識與行政量能，全力實踐聯合國SDGs關鍵目標，承擔起在地資源與國際接軌之責任，促進生態環境與產業經濟之永續發展。"]
+        "text": [
+            "近年國際間鼓勵產學界以聯合國2030年永續發展指標（以下簡稱SDGs）爲轉型方向，邁入「地球共治」的關鍵階段。本校於1990年建校即以綠色大學自詡，並戮力規劃永續發展校園，建設綠能典範學府，培育具備永續視野的人才爲社會奉獻。2013年校內成立環境教育中心，利用校園環境作爲教學場域，並規劃適用於大彰化地區之環境教育教材及課程，積極推動環保教育。2019年，本校將永續發展精神融入校務與教學之成效，榮獲國家永續發展獎；2022年，進一步成立碳盤查團隊以及永續發展辦公室，跨單位整合專業知識與行政量能，全力實踐聯合國SDGs關鍵目標，承擔起在地資源與國際接軌之責任，促進生態環境與產業經濟之永續發展。"
+        ]
     },
     {
         "componentType": "img",
         "style": "width:90%",
-        "data":[
+        "data": [
             {
-                "imgUrl":"https://cdn.vuetifyjs.com/images/carousel/sky.jpg",
-                "imgLink":"https://cdn.vuetifyjs.com/images/carousel/sky.jpg",
-                "imgText":""
+                "imgUrl": "https://cdn.vuetifyjs.com/images/carousel/sky.jpg",
+                "imgLink": "https://cdn.vuetifyjs.com/images/carousel/sky.jpg",
+                "imgText": ""
             }
         ]
     },
     {
-        "componentType": "icon-title",
-        "icon":"fa-solid fa-folder-open",
-        "text": "永續倡議"
+        "componentType": "big-title",
+        "text": "教學特色"
     }
 ]
