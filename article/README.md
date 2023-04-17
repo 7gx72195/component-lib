@@ -23,7 +23,6 @@ fontawesome
 </style>
 ```
 # 可用模塊
-```
 - title
 - icon-title
 - big-title
@@ -34,7 +33,7 @@ fontawesome
 - pdf
 - list
 - hr
-```
+
 
 
 
