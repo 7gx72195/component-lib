@@ -81,44 +81,5 @@
             "width": "80%",
             "height": "768px"
         }
-    },
-    {
-        "componentType": "list",
-        "data": {
-        "type": "ol",
-        "style": " list-style-type:cjk-ideographic",
-            "data": [
-                {
-                    "text": "報名課程",
-                    "data": {
-                        "type": "ol",
-                        "data": [
-                            {
-                                "text": "填寫入學申請表",
-                                "link": "https://docs.google.com/forms/d/e/1FAIpQLSfMIoAfFFBW4GDvP8yv3tkPBBHbTNFT7je5_XGQM8s9EZhfEg/viewform"
-                            },
-                            {
-                                "text": "上傳報名文件(護照及居留證影本、正式的財力證明（三個月內/US$2,500）、2吋證件照片3張、高中以上畢業證書和成績單影本)"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "text": "繳費 可接受付款方式如下：",
-                    "data": {
-                        "type": "ol",
-                        "data": [
-                            {
-                                "text": "信用卡"
-                            },
-                            {
-                                "text": "電匯",
-                                "link": "https://bulletin.dyu.edu.tw/file/A0012/83167.pdf"
-                            }
-                        ]
-                    }
-                }
-            ]
-        }
     }
 ]

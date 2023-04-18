@@ -4,9 +4,8 @@
 vuetify
 ```
 ## CDN(in index.html)
-### icon
+### icon (fontawesome)
 ```
-fontawesome
 <script src="https://kit.fontawesome.com/cd51d51391.js" crossorigin="anonymous"></script>
 ```
 ### jquery
