@@ -57,7 +57,7 @@
           <div class="c-img" v-for="(item2, i) in item.data" :key="i">
             <div class="imgData">
               <a class="imga" :style="item.style" :href="item2.imgLink" target="_blank">
-                <v-card :elevation="18" class="secondary adiv" @click="go(index)">
+                <v-card :elevation="18" @click="go(index)">
                   <img style="width: 100%" :src="item2.imgUrl" />
                 </v-card>
                 <!-- <img style="width:100%" :src="item2.imgUrl" /> -->
